@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Schedule Management</string>
+
+
+<!--    login screen-->
+    <string name="userid">User ID</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_hint">New to Schedule Management ?</string>
+    <string name="signup">Signup Here?</string>
+    <string name="emailus">Facing issues with Login or Signup ? Email us at strong.explorers@gmail.com</string>
+
+
+<!--    signup here-->
+    <string name="signup_userid">User ID</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_button">Login</string>
+
+
+    <!--    Manager Home screen-->
+    <string name="welcome_message_manager">Welcome Manager</string>
+    <string name="view_employees">View Employees</string>
+    <string name="prepare_schedule">Prepare Schedule</string>
+
+    <!--    Employee Home screen-->
+    <string name="welcome_message_employee">Welcome Employee</string>
+    <string name="view_details">View Details</string>
+    <string name="change_schedule">Change/View Schedule</string>
+
+
+</resources>
